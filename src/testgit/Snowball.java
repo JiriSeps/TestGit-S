@@ -3,11 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package javaapplication1;
-
-import static java.awt.Color.BLUE;
-import static java.awt.Color.RED;
-
-
 /**
  *
  * @author fiwie
